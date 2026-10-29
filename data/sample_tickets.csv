@@ -1,0 +1,4 @@
+subject,description,customer_email,category,priority,status,created_at,resolved_at
+"Cannot reset my password","The reset email never arrives. I checked spam and tried twice.","sample1@example.com","Account","medium","open","2026-10-01T09:20:00",""
+"Invoice has wrong billing address","My latest invoice shows the old billing address even though I updated my profile yesterday.","sample2@example.com","Billing","high","open","2026-10-02T12:15:00",""
+"Export is timing out","Exporting a report with 20k rows times out after about 30 seconds.","sample3@example.com","Technical","high","resolved","2026-09-20T10:00:00","2026-09-20T13:30:00"
